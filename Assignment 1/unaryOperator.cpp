@@ -1,17 +1,17 @@
 #include <iostream>
 using namespace std;
 
-class bacho
+class student
 {
     int r, i;
 
 public:
-    bacho()
+    student()
     {
         this->r = 1;
         this->i = 1;
     }
-    bacho(int a, int b)
+    student(int a, int b)
     {
         r = a;
         i = b;
@@ -20,14 +20,14 @@ public:
     {
         cout << r << "  &  " << i << endl;
     }
-    bacho operator++()
+    student operator++()
     {
         r = r + 1;
         i = i + 2;
     }
-    bacho operator++(int)
+    student operator++(int)
     {
-        bacho k;
+        student k;
         k.r = this->r + 1;
         k.i = this->i + 2;
         return k;
@@ -35,7 +35,7 @@ public:
 };
 int main()
 {
-    bacho n(3, 4);
+    student n(3, 4);
     n.display();
     n = n++;
     n.display();
