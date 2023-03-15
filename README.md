@@ -14,3 +14,8 @@ C++ is a high level programming language which has many application like in game
 <i>Resource For Reading:</i> 
 
 <a href='https://www.simplilearn.com/tutorials/cpp-tutorial/top-uses-of-c-plus-plus-programming'><img src='https://www.simplilearn.com/ice9/new_logo.svgz' width=100></a>
+
+
+<h4 align='right'><i>
+  Content Upcoming!..........
+</i></h4>
