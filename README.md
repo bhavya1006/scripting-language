@@ -5,7 +5,7 @@ Hey, This repo is created on behalf of some of the basic codes of C++ learned by
 Will be having more on this later!
 <br><br>
 <p>
-I am bhavya1006 and here tell my journey where I learned many things in C++ some tricks or facts this programming deals.
+I am bhavya1006 and here to tell my journey , where I have learnt many things in C++ and some tricks or facts that this programming deals.
 <br><br>
 
 
