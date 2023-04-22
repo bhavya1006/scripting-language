@@ -1,7 +1,7 @@
 # C++ Programming Language <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
 <h4>
-Hey, This repo is created on behalf of some of the basic codes of C++ learned by me and focuses on providing the basic content for any beginner.
+Hey, This repo is created on behalf of some of the basic codes of C++ learnt by me and focuses on providing the basic content for any beginner.
 Will be having more on this later!
 <br><br>
 <p>
