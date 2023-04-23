@@ -14,7 +14,7 @@ I am bhavya1006 and here to tell my journey , where I have learnt many things in
 ## Why Use C++ ?
 
 <h4>
-C++ is a high level programming language which has many application like in game development, to develop GUI-based desktop applications and used extensively need to work closer to the hardware. This makes it very useful in those areas where hardware and software are closely coupled together, and low-level support is needed at the software level.
+C++ is a high level programming language which has many application like in game development, to develop GUI-based desktop applications and used extensively, which works closer to the hardware. This makes it very useful in those areas where hardware and software are closely coupled together, and low-level support is needed at the software level.
 </h4>
 
 
