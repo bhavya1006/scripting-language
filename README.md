@@ -30,5 +30,5 @@ C++ is a high level programming language which has many application like in game
 
 
 <h4 align='right'><i>
-  Content Upcoming!..........
+  Content Upcoming!.........
 </i></h4>
