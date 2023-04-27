@@ -8,6 +8,7 @@ Will be having more on this later!
 I am bhavya1006 and here to tell my journey , where I have learnt many things in C++ and some tricks or facts that this programming deals with.
 <br><br>
 
+<img src='https://www.geo.tv/assets/uploads/updates/2022-07-30/430659_8969215_updates.jpg'>
 
 </h4>
 
@@ -30,5 +31,5 @@ C++ is a high level programming language which has many application like in game
 
 
 <h4 align='right'><i>
-  Content Upcoming!.........
+  Content Upcoming!..........
 </i></h4>
